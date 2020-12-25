@@ -17,3 +17,6 @@ List of things included in food delivery app.
 - Push Notification
 - Custom Payment flow
 - Supports Payment Gateways via Webview
+
+
+https://play.google.com/store/apps/details?id=io.rnlab.lekima
